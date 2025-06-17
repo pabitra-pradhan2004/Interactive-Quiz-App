@@ -1,6 +1,6 @@
 # Interactive-Quiz-App
 
-Company CODTECH IT SOLUTION
+COMPANY- CODTECH IT SOLUTION
 
 NAME- Pabitra pradhan
 
