@@ -41,3 +41,6 @@ Visual Studio Code: The development environment used to write and test the code,
 
  Learning Experience:
 This project strengthened my understanding of core JavaScript concepts such as DOM manipulation, event listeners, and conditional logic. I also gained experience in creating responsive layouts and maintaining clean, modular code.
+
+
+OUTPUT - ![Image](https://github.com/user-attachments/assets/45478cbd-429e-4438-89f7-36220fed070d)
